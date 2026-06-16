@@ -182,21 +182,6 @@ The system generates personalized recommendations based on predicted risk.
 
 ---
 
-## 📂 Project Structure
-
-```text
-Employee-Attrition-Predictor/
-│
-├── app.py
-├── attrition_model.pkl
-├── requirements.txt
-├── README.md
-│
-└── assets/
-    ├── dashboard.png
-    └── screenshots/
-```
-
 ## ⚙️ Installation
 
 ### Clone Repository
